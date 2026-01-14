@@ -50,7 +50,7 @@ DianHub 是一个基于 Go 语言开发的轻量级 Docker 镜像代理服务，
 
 ## 🚀 快速开始
 
-### 使用 Docker（推荐）
+### 使用 Docker
 
 ```bash
 # 拉取镜像
@@ -64,7 +64,7 @@ docker run -d \
   yjnas/dianhub:latest
 ```
 
-### 使用 Docker Compose
+### 使用 Docker Compose（推荐）
 
 创建 `docker-compose.yml` 文件：
 
