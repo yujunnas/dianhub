@@ -256,28 +256,7 @@ curl http://localhost:8080/v2/username/imagename/manifests/v1.0
 如果这个项目对你有帮助，欢迎：
 
 - ⭐ Star 本项目
-- 🔀 Fork 并改进
 - 📢 分享给更多人
-- ☕ 请作者喝杯咖啡
-
-<div align="center">
-
-### 打赏支持
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="static/zfb.png" width="200px" alt="支付宝"><br>
-      <b>支付宝</b>
-    </td>
-    <td align="center">
-      <img src="static/wx.png" width="200px" alt="微信"><br>
-      <b>微信</b>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
