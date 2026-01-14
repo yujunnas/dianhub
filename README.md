@@ -58,7 +58,7 @@ docker pull yjnas/dianhub:latest
 # 运行容器
 docker run -d \
   -p 8080:8080 \
-  -e HOST_KEY=your_secret_key \
+  -e HOST_KEY=yjnas \
   --name dianhub \
   yjnas/dianhub:latest
 ```
@@ -78,7 +78,7 @@ services:
       - "8080:8080"
     environment:
       - PORT=8080
-      - HOST_KEY=your_secret_key
+      - HOST_KEY=yjnas
       - IMAGES_PULL=false
     restart: unless-stopped
 ```
