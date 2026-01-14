@@ -7,7 +7,6 @@
 **轻量级 Docker Hub 镜像信息查询工具**
 
 [![Docker Image](https://img.shields.io/badge/docker-yjnas%2Fdianhub-blue)](https://hub.docker.com/r/yjnas/dianhub)
-[![Go Version](https://img.shields.io/badge/go-1.21+-00ADD8?logo=go)](https://go.dev/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 [功能特性](#功能特性) • [快速开始](#快速开始) • [使用方法](#使用方法) • [配置说明](#配置说明) • [API 文档](#api-文档)
